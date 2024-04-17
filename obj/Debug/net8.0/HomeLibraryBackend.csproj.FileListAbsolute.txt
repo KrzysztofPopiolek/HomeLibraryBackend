@@ -1,0 +1,15 @@
+C:\AllProgramsProjects\HomeLibraryBackend\bin\Debug\net8.0\HomeLibraryBackend.exe
+C:\AllProgramsProjects\HomeLibraryBackend\bin\Debug\net8.0\HomeLibraryBackend.deps.json
+C:\AllProgramsProjects\HomeLibraryBackend\bin\Debug\net8.0\HomeLibraryBackend.runtimeconfig.json
+C:\AllProgramsProjects\HomeLibraryBackend\bin\Debug\net8.0\HomeLibraryBackend.dll
+C:\AllProgramsProjects\HomeLibraryBackend\bin\Debug\net8.0\HomeLibraryBackend.pdb
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.AssemblyInfoInputs.cache
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.AssemblyInfo.cs
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.csproj.CoreCompileInputs.cache
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.dll
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\refint\HomeLibraryBackend.dll
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.pdb
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.genruntimeconfig.cache
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\ref\HomeLibraryBackend.dll
+C:\AllProgramsProjects\HomeLibraryBackend\obj\Debug\net8.0\HomeLibraryBackend.sourcelink.json
